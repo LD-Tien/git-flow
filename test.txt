@@ -1,2 +1,3 @@
 test
-conflict feat 2
+Solved conflict
+New bug
